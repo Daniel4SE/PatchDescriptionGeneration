@@ -1,4 +1,4 @@
-# PatchDescriptionGeneration
+# Patch Description Generation (code description generation, dialogue reponse generation, text2SQL generation)
 Patch Description Generation with GPT3, it supports breakpoint resumes
 ## Patch Description Generator
 
